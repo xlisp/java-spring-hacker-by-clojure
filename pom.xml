@@ -23,6 +23,12 @@
             <version>${javaparser.version}</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.eclipse.jdt</groupId>
+            <artifactId>org.eclipse.jdt.core</artifactId>
+            <version>3.32.0</version>
+        </dependency>
+
         <!-- JUnit Jupiter for testing -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
